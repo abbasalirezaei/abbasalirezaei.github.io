@@ -11,7 +11,8 @@ const blogData = [
     image: image1,
     title: "20 Best Prototyping and Design Tools for Product Design",
     description:
-      "Prototyping Tool Prototyping is a process that enables faster creativity and effective experimentation for the product team.",
+      "20 Best Prototyping and Design Tools for Product Design for reading more click here ...",
+
   },
   {
     id: 2,
