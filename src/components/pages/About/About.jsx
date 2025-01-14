@@ -9,8 +9,9 @@ const About = () => {
           <div className="md:mx-4">
             <h3 className="text-2xl text-gray-800 font-bold mb-4">Who am I?</h3>
             <p className="text-sm text-gray-400 leading-6 mb-3">
-              I hold a Bachelor's degree in Computer Science from Isfahan University. My passion for the field of computers, particularly programming, drives my continuous learning and improvement. While I am in the early stages of my career and lack professional work experience, I have dedicated myself to comprehensive training and diligent practice. My enthusiasm for learning new concepts is complemented by my ability to quickly grasp and apply them. I am deeply committed to problem-solving and task completion.
-
+            Bachelor’s in Computer Science | Isfahan University
+\<br />
+I am a dedicated and enthusiastic computer science graduate with a deep passion for programming and a commitment to lifelong learning. Although I am at the beginning of my professional journey, I have actively engaged in intensive training and practical projects to develop a robust foundation in software development. My quick adaptability to new technologies and strong problem-solving skills enable me to tackle challenges effectively and deliver impactful solutions. Eager to grow and contribute, I am excited to bring my skills and enthusiasm to innovative projects within the tech industry.
             </p>
 
           </div>
