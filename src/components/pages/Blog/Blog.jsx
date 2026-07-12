@@ -9,7 +9,7 @@ const blogData = [
   {
     id: 1,
     image: image1,
-    title: "20 Best Prototyping and Design Tools for Product Design",
+    title: "پرامپت نویسی حرفه ای",
     description:
       "20 Best Prototyping and Design Tools for Product Design for reading more click here ...",
 
