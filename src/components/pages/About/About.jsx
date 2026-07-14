@@ -10,7 +10,7 @@ const About = () => {
             <h3 className="text-2xl text-gray-800 font-bold mb-4">Who am I?</h3>
             <p className="text-sm text-gray-400 leading-6 mb-3">
               Bachelor’s in Computer Science | Isfahan University
-              \<br />
+              <br />
               I’m an IT and Telecommunication Specialist focused on designing, maintaining, and troubleshooting critical network infrastructure in the oil and gas industry.
               Currently at South Zagros Oil & Gas Production Company, I manage local area networks (LAN), industrial switches, routers, and communication links including fiber, radio, and VSAT. I also work extensively with VoIP systems, Windows Server, Hyper-V, and IP CCTV.
               My approach combines technical precision with a problem-solving mindset ensuring that telecommunication systems are reliable, secure, and efficient in demanding environments.
@@ -25,11 +25,9 @@ const About = () => {
             </p>
             <p className="text-sm text-gray-400 leading-6 mb-3">
               Deutsch
-
             </p>
             <p className="text-sm text-gray-400 leading-6 mb-3">
               Persian
-
             </p>
 
           </div>
