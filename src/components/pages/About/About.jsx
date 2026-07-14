@@ -18,22 +18,6 @@ I'm an IT and Telecommunication Specialist focused on designing, maintaining, an
 const About = () => {
   return (
     <section className="py-12 px-4 max-w-4xl mx-auto">
-      {/* Profile Header with Photo */}
-      <div className="flex flex-col md:flex-row items-start md:items-center gap-6 mb-8">
-        <div className="flex-shrink-0">
-          <div className="w-24 h-24 md:w-32 md:h-32 rounded-full bg-gradient-to-br from-blue-500 to-purple-600 flex items-center justify-center text-white text-4xl font-bold shadow-lg">
-            AR
-          </div>
-        </div>
-        <div>
-          <h1 className="text-3xl md:text-4xl font-bold text-gray-800">
-            Abbasali Rezaei
-          </h1>
-          <p className="text-blue-600 font-semibold text-lg mt-1">
-            {aboutData.role}
-          </p>
-        </div>
-      </div>
 
       {/* About Section */}
       <div className="mb-8">
