@@ -9,10 +9,9 @@ const blogData = [
   {
     id: 1,
     image: image1,
-    title: "پرامپت نویسی حرفه ای",
-    description:
-      "20 Best Prototyping and Design Tools for Product Design for reading more click here ...",
-
+  title: "پایتون فقط یک زبان مفسری نیست!",
+  description:
+    "خیلی‌ها فکر می‌کنند پایتون صرفاً یک زبان مفسری است، اما در CPython ابتدا کد به Bytecode تبدیل می‌شود و سپس توسط Python Virtual Machine اجرا می‌شود. در این مطلب با Bytecode، فایل‌های .pyc، پوشه __pycache__، تفاوت CPython و PyPy و نقش JIT Compiler آشنا می‌شوید."
   },
   {
     id: 2,
