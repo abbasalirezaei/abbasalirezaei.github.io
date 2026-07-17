@@ -11,7 +11,7 @@ import Blog from "../../pages/Blog/Blog";
 import Contact from "../../pages/Contact/Contact";
 import Portfolio from "../../pages/Portfolio/Portfolio";
 import Service from "../../pages/Service/Service";
-
+import ServiceDetail from "../../pages/Service/ServiceDetail";
 const navbarData = [
   {
     id: 1,
@@ -54,6 +54,10 @@ const Navbar = () => {
       <Routes>
         <Route path="/" element={<About />} />
         <Route path="/services" element={<Service />} />
+        <Route
+            path="/services/:slug"
+            element={<ServiceDetail />}
+        />
         <Route path="/works" element={<Portfolio />} />
         <Route path="/blogs" element={<Blog />} />
         <Route path="/contact" element={<Contact />} />
