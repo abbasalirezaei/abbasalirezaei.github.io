@@ -1,0 +1,15 @@
+@font-face {
+	font-family: "primary-font";
+	src: url("../../fonts/fonts-files/dana-400.woff2") format("woff2"),
+		 url("../../fonts/fonts-files/dana-400.woff") format("woff");
+	font-weight: 400;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: "primary-font";
+	src: url("../../fonts/fonts-files/dana-700.woff2") format("woff2"),
+		 url("../../fonts/fonts-files/dana-700.woff") format("woff");
+	font-weight: 700;
+	font-display: swap;
+}

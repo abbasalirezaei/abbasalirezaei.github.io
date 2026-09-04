@@ -1,0 +1,31 @@
+@font-face {
+	font-family: "primary-font";
+	src: url("../../fonts/fonts-files/mikhak-sd-300.woff2") format("woff2"),
+		 url("../../fonts/fonts-files/mikhak-sd-300.woff") format("woff");
+	font-weight: 300;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: "primary-font";
+	src: url("../../fonts/fonts-files/mikhak-sd-400.woff2") format("woff2"),
+		 url("../../fonts/fonts-files/mikhak-sd-400.woff") format("woff");
+	font-weight: 400;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: "primary-font";
+	src: url("../../fonts/fonts-files/mikhak-sd-500.woff2") format("woff2"),
+		 url("../../fonts/fonts-files/mikhak-sd-500.woff") format("woff");
+	font-weight: 500;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: "primary-font";
+	src: url("../../fonts/fonts-files/mikhak-sd-700.woff2") format("woff2"),
+		 url("../../fonts/fonts-files/mikhak-sd-700.woff") format("woff");
+	font-weight: 700;
+	font-display: swap;
+}
