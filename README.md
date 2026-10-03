@@ -1,6 +1,6 @@
 # abbasalirezaei.github.io
 
-Personal website of **Abbasali Rezaei** — ICT Specialist, Network & System Administrator, and Backend Developer.
+Personal website of **Abbasali Rezaei**  ICT Specialist, Network & System Administrator, and Backend Developer.
 
 **Live site:** [https://abbasalirezaei.github.io](https://abbasalirezaei.github.io)
 
@@ -10,9 +10,9 @@ This site is built with the [Academic Pages](https://github.com/academicpages/ac
 
 ## Content
 
-- **About** — professional background and skills
-- **CV** — education, experience, and certifications
-- **Blog** — posts on Windows features, IT, and productivity
+- **About** professional background and skills
+- **CV** education, experience, and certifications
+- **Blog** posts on Windows features, IT, and productivity
 
 ## Contact
 
