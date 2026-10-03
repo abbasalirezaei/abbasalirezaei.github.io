@@ -13,19 +13,19 @@ Currently working at **South Zagros Oil & Gas Production Co.**, managing enterpr
 
 Alongside networking, I have a solid background in **Python**, **Django**, and automation — bridging the gap between infrastructure and software development.
 
-## 🔧 What I Do
+## What I Do
 
-- 🖥️ **Technical Support & Troubleshooting**: Windows 10/11, hardware, peripherals (printer, scanner, VoIP)
-- 🗂️ **Active Directory & Windows Server**: user/group management, GPO, DNS, DHCP
-- 🌐 **Networking**: TCP/IP, LAN/WAN, VLAN, Cisco & MikroTik, Hotspot, VPN tunneling
-- ☁️ **Virtualization**: VMware ESXi, Hyper-V
-- 📞 **VoIP & PABX**: configuration and maintenance
-- 📹 **CCTV & NVR**: network camera support
-- 🐍 **Backend Development**: Python, Django, PostgreSQL
-- 🐳 **DevOps**: Docker, Linux, Git
-- 📊 **Data & Automation**: Python scripting, Excel, documentation
+- **Technical Support & Troubleshooting**: Windows 10/11, hardware, peripherals (printer, scanner, VoIP)
+- **Active Directory & Windows Server**: user/group management, GPO, DNS, DHCP
+- **Networking**: TCP/IP, LAN/WAN, VLAN, Cisco & MikroTik, Hotspot, VPN tunneling
+- **Virtualization**: VMware ESXi, Hyper-V
+- **VoIP & PABX**: configuration and maintenance
+- **CCTV & NVR**: network camera support
+- **Backend Development**: Python, Django, PostgreSQL
+- **DevOps**: Docker, Linux, Git
+- **Data & Automation**: Python scripting, Excel, documentation
 
-## 💼 Experience
+## Experience
 
 **ICT Specialist** — South Zagros Oil & Gas Production Co.
 *Varavi Gas Compressor Station | Since 2025*
@@ -41,21 +41,21 @@ Alongside networking, I have a solid background in **Python**, **Django**, and a
 - LAN setup and troubleshooting for clients
 - Web development with Python & Django, PostgreSQL, Docker
 
-## 🎓 Education
+## Education
 
 **B.Sc. in Computer Engineering**
 University of Isfahan | 2019 – 2023
 
-## 📜 Certifications
+## Certifications
 
 - CompTIA Network+ (Online)
 - MikroTik Configuration & Management (Online)
 - Cisco Essentials (Online)
 - Windows 10/11 Support & Troubleshooting (Online)
 
-## 📫 Get in Touch
+## Get in Touch
 
-- 📧 Email: [abbasalirezaei.79@gmail.com](mailto:abbasalirezaei.79@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/abbasalirezaei79](https://ir.linkedin.com/in/abbasalirezaei79)
-- 🐙 GitHub: [github.com/abbasalirezaei](https://github.com/abbasalirezaei)
-- 📞 Phone: 09920010321
+- Email: [abbasalirezaei.79@gmail.com](mailto:abbasalirezaei.79@gmail.com)
+- LinkedIn: [linkedin.com/in/abbasalirezaei79](https://ir.linkedin.com/in/abbasalirezaei79)
+- GitHub: [github.com/abbasalirezaei](https://github.com/abbasalirezaei)
+- Phone: 09920010321
