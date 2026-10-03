@@ -2,7 +2,7 @@
 
 Personal website of **Abbasali Rezaei**  ICT Specialist, Network & System Administrator, and Backend Developer.
 
-**Live site:** [https://abbasalirezaei.github.io](https://abbasalirezaei.github.io)
+**Live site:** [https://rezaeiabbas.ir](https://rezaeiabbas.ir)
 
 ## About
 
