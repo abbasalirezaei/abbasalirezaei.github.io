@@ -1,0 +1,5 @@
+<div class="service-contact">
+<a class="btn btn--primary" href="mailto:{{ site.author.email }}?subject={{ page.title | uri_escape }}">{% if page.lang == "fa" %}ارسال ایمیل{% else %}Email me{% endif %}</a>
+{% if site.author.telegram and site.author.telegram != empty %}<a class="btn btn--primary" href="{{ site.author.telegram }}">Telegram</a>{% endif %}
+{% if site.author.phone %}<a class="btn" href="tel:{{ site.author.phone }}">{% if page.lang == "fa" %}تماس تلفنی{% else %}Call me{% endif %}</a>{% endif %}
+</div>

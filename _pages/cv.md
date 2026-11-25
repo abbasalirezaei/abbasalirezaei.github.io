@@ -1,4 +1,6 @@
 ---
+lang: en
+translation_url: /fa/cv/
 layout: archive
 title: "CV"
 permalink: /cv/
@@ -93,10 +95,3 @@ ICT Specialist with over **3 years of experience** in operational support and ad
 
 * Persian — Native
 * English — Professional working proficiency
-
-## 📫 Contact
-
-* 📧 Email: [abbasalirezaei.79@gmail.com](mailto:abbasalirezaei.79@gmail.com)
-* 💼 LinkedIn: [linkedin.com/in/abbasalirezaei79](https://ir.linkedin.com/in/abbasalirezaei79)
-* 🐙 GitHub: [github.com/abbasalirezaei](https://github.com/abbasalirezaei)
-* 📞 Phone: 09920010321

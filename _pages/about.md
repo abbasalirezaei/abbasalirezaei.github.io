@@ -1,4 +1,6 @@
 ---
+lang: en
+translation_url: /fa/
 permalink: /
 title: "About Me"
 author_profile: true
@@ -52,10 +54,3 @@ University of Isfahan | 2019 – 2023
 - MikroTik Configuration & Management (Online)
 - Cisco Essentials (Online)
 - Windows 10/11 Support & Troubleshooting (Online)
-
-## Get in Touch
-
-- Email: [abbasalirezaei.79@gmail.com](mailto:abbasalirezaei.79@gmail.com)
-- LinkedIn: [linkedin.com/in/abbasalirezaei79](https://ir.linkedin.com/in/abbasalirezaei79)
-- GitHub: [github.com/abbasalirezaei](https://github.com/abbasalirezaei)
-- Phone: 09920010321

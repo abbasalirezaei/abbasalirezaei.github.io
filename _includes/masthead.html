@@ -6,7 +6,7 @@
         <button><span class="navicon"></span></button>
         <ul class="visible-links">
           <li class="masthead__menu-item masthead__menu-item--lg persist {% if page.url == '/' or page.url == '/index.html' %}selected{% endif %}">
-            <a href="{{ base_path }}/">{{ site.title }}</a>
+            <a href="{{ base_path }}{% if page.lang == "fa" %}/fa/{% else %}/{% endif %}">{% if page.lang == "fa" %}عباسعلی رضایی{% else %}{{ site.title }}{% endif %}</a>
           </li>
           {% for link in site.data.navigation.main %}
             {% if link.url contains 'http' %}
@@ -15,9 +15,10 @@
               {% assign domain = base_path %}
             {% endif %}
             <li class="masthead__menu-item {% if page.url contains link.url and link.url != '/' %}selected{% endif %}">
-              <a href="{{ domain }}{{ link.url }}">{{ link.title }}</a>
+              <a href="{{ domain }}{% if page.lang == "fa" %}/fa{% endif %}{{ link.url }}">{% if page.lang == "fa" %}{% case link.title %}{% when "Blog Posts" %}وبلاگ{% when "CV" %}رزومه{% when "Services" %}خدمات{% else %}{{ link.title }}{% endcase %}{% else %}{{ link.title }}{% endif %}</a>
             </li>
           {% endfor %}
+          <li class="masthead__menu-item persist"><a id="language-toggle" href="{{ base_path }}{% if page.lang == "fa" %}{{ page.translation_url | default: "/" }}{% else %}{{ page.translation_url | default: "/fa/" }}{% endif %}" hreflang="{% if page.lang == "fa" %}en{% else %}fa{% endif %}">{% if page.lang == "fa" %}EN{% else %}فارسی{% endif %}</a></li>
           <li id="theme-toggle" class="masthead__menu-item persist tail">
             <a role="button" aria-labelledby="theme-icon"><i id="theme-icon" class="fa-solid fa-sun" aria-hidden="true" title="toggle theme"></i></a>
           </li>

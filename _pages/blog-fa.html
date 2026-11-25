@@ -1,0 +1,13 @@
+---
+layout: archive
+lang: fa
+permalink: /fa/year-archive/
+translation_url: /year-archive/
+title: "وبلاگ"
+author_profile: true
+---
+<p>مقاله‌های فعلی به زبان انگلیسی هستند.</p>
+{% for post in site.posts %}
+<h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+<p><time>{{ post.date | date: '%Y-%m-%d' }}</time> · English</p>
+{% endfor %}
